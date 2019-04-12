@@ -5,6 +5,8 @@
 
 ![公众号](https://github.com/Brucepk/pk.github.io/blob/master/gzh.jpg)
 
+[我的个人技术博客](https://www.pyzhishiquan.com/)
+
 ### 说明
 本文源码在第一版的基础上做的优化，提醒：运行代码请仔细阅读文章相关的配置。二等座的value值是大写的O，而不是阿拉伯数字0，需要抢二等座的切记。[具体文章](https://dwz.cn/3ij9hkI5)
 
